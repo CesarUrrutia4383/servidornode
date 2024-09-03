@@ -1,0 +1,19 @@
+{
+  "name": "practica-1",
+  "version": "1.0.0",
+  "description": "Es un servidor basico de node.js con un puerto",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "node.js",
+    "server",
+    "cliente",
+    "puertos",
+    "practica",
+    "node"
+  ],
+  "author": "Cesar Urrutia",
+  "license": "ISC"
+}
